@@ -16,7 +16,7 @@ let questions = [
             "A. Python",
             "B. CSS",
             "C. SQL",
-            "D. Java"
+            "D. Javaa"
         ],
         answer: 1
     }
